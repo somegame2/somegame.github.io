@@ -2,7 +2,7 @@ title: Super Saiyan
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
